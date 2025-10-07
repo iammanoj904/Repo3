@@ -1,0 +1,36 @@
+{
+  "branches": [
+    {
+      "branchName": "Ameerpet Branch",
+      "city": "Hyderabad",
+      "pincode": "560001",
+      "address": "Ameerpet Road, Hyderabad",
+      "contact": "08012345678",
+      "ifsc": "CANR0001234"
+    },
+    {
+      "branchName": "Gurugram Branch",
+      "city": "Delhi",
+      "pincode": "560038",
+      "address": "Gurugram Trafic, Delhi",
+      "contact": "08087654321",
+      "ifsc": "BOB0005678"
+    },
+    {
+      "branchName": "Hi-Tech Branch",
+      "city": "Hyderabad",
+      "pincode": "600020",
+      "address": "Hi-Tech City, Hyderabad",
+      "contact": "04422334455",
+      "ifsc": "SBI0001122"
+    },
+    {
+      "branchName": "Lulum Branch",
+      "city": "Bangalore",
+      "pincode": "600022",
+      "address": "Lulum metro, Bangalore",
+      "contact": "04422334455",
+      "ifsc": "HDFC0001122"
+    }
+  ]
+}
