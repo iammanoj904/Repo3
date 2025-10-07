@@ -5,5 +5,5 @@ import lombok.Data;
 @Data
 public class BranchRequest {
     private String city;
-    private String pincode;
+    private String pincode; //
 }
